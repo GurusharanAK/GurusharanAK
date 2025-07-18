@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey there, I'm Gurusharan 👋
+I'm quite familiar with C/C++, Go and Python. I've built a strong foundation in Data structures and Algorithms. I am passionate about Mathematics, Problem-solving and Research. I have a keen interest in building systems from scratch.
 
+I'm currently on the look out for a role in backend web development or Systems/Linux engineer position ideally coding in Go or C++, however I would love to learn new things. I'd especially love to work on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
 <!--
 **GurusharanAK/GurusharanAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
